@@ -1,5 +1,13 @@
-# neurolab-conda
+# End-to-end-ML-Project
 
-Command to run demo.py file:
+```bash
+conda create -n mlproj python=3.8 -y
+```
 
-`python demo.py`
+```bash
+conda activate mlproj
+```
+
+```bash
+pip install -r requirements.txt
+```
